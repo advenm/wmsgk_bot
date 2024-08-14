@@ -3,7 +3,7 @@
 
 繁华社工库
 
-链接：t.me/FanHuaSGK_bot?start=FanHua_JBBDEKJQ
+链接：https://t.me/FanHuaSGK_bot?start=FanHua_JBBDEKJQ
 
 备注：可查询QQ/微博/贴吧/手机机主/银行卡/贷款记录/购物记录等，查询项目多，拥有一号多查的功能
 
