@@ -27,7 +27,7 @@ AI爱社工库
 
 无名社工库机器人
 
-链接：https://t.me/wmsgk_bot?start=fJNueRplrl
+链接：[https://t.me/wmsgk_bot?start=fJNueRplrl](https://t.me/wmsgk1_bot?start=1023457876)
 
 备注：新用户可赠送5点积分，每一次查询仅消耗1点积分。
 
